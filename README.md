@@ -12,3 +12,7 @@ Initial solution - 5 ms
 I simplified the code into one line and used the sum() function, adding all the absolute values of each ASCII value within a the range of the string s
 
 Final solution - 0 ms
+
+## Takeaways
+I learned about the ords() function, allowing me to know convert string letters to their ASCII values
+I learned about the structure needed to do for loops in one line code, optimizing time used for the program to run
