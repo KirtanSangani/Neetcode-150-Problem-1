@@ -1,5 +1,7 @@
 # Neetcode-150-Problem-1
 
+7/08/2025
+
 ## Thought Process
 I understood it was a simple for loop to traverse through the string. I also knew that I would have to use the abs() function to be able to get the absolute value of two ASCII values
 
