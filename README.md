@@ -1,4 +1,4 @@
-# Neetcode-150-Problem-1
+# Problem 3110: Score of a String
 
 7/08/2025
 
